@@ -1,6 +1,6 @@
 # Portfolio Management System
 
-A C++ application for managing financial portfolios with stocks and bonds.
+This is the final project for CSC 211 - C++ application for managing financial portfolios with stocks and bonds.
 
 ## Features
 
