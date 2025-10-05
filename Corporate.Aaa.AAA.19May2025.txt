@@ -1,0 +1,7 @@
+No, CUSIP, Name, Coupon, Maturity, Price, Yield
+
+1, 575718AA9, Mass Inst Tech Mtn Be, 5.6, 07/01/2111, 95.734, 5.851
+2, 478160CX0, Johnson & Johnson, 5.25, 06/01/2054, 94.725, 5.62
+3, 594918BM5, Microsoft Corp, 4.75, 11/03/2055, 88.791, 5.514
+4, 85440KAE4, Getty Paul J Tr, 4.905, 04/01/2035, 97.782, 5.196
+5, 374288AC2, Stanford Univ Calif, 4.679, 03/01/2035, 97.641, 4.986

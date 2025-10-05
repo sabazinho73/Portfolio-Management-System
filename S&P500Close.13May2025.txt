@@ -1,0 +1,503 @@
+1,	MSFT,	Microsoft Corporation,	3,338.25B,	449.14
+2,	AAPL,	Apple Inc.,	3,180.29B,	212.93
+3,	NVDA,	NVIDIA Corporation,	3,168.68B,	129.93
+4,	AMZN,	Amazon.com, Inc.,	2,243.98B,	211.37
+5,	GOOG,	Alphabet Inc.,	1,943.28B,	160.89
+6,	GOOGL,	Alphabet Inc.,	1,935.86B,	159.53
+7,	META,	Meta Platforms, Inc.,	1,649.47B,	656.03
+8,	BRK.B,	Berkshire Hathaway Inc.,	1,103.85B,	511.88
+9,	AVGO,	Broadcom Inc.,	1,092.83B,	232.42
+10,	TSLA,	Tesla, Inc.,	1,076.02B,	334.07
+11,	WMT,	Walmart Inc.,	767.13B,	95.88
+12,	JPM,	JPMorgan Chase & Co.,	730.93B,	263.01
+13,	LLY,	Eli Lilly and Company,	669.76B,	746.06
+14,	V,	Visa Inc.,	666.75B,	356.14
+15,	MA,	Mastercard Incorporated,	523.57B,	576.59
+16,	NFLX,	Netflix, Inc.,	484.49B,	1,138.44
+17,	XOM,	Exxon Mobil Corporation,	471.73B,	109.46
+18,	ORCL,	Oracle Corporation,	455.04B,	162.27
+19,	COST,	Costco Wholesale Corporation,	443.25B,	999.03
+20,	PG,	The Procter & Gamble Company,	372.15B,	158.73
+21,	HD,	The Home Depot, Inc.,	371.33B,	373.60
+22,	JNJ,	Johnson & Johnson,	357.16B,	148.44
+23,	BAC,	Bank of America Corporation,	333.51B,	44.28
+24,	ABBV,	AbbVie Inc.,	332.08B,	188.00
+25,	PLTR,	Palantir Technologies Inc.,	302.30B,	128.10
+26,	KO,	The Coca-Cola Company,	296.82B,	68.96
+27,	UNH,	UnitedHealth Group Incorporated,	282.47B,	311.38
+28,	CRM,	Salesforce, Inc.,	277.45B,	289.17
+29,	TMUS,	T-Mobile US, Inc.,	269.49B,	237.34
+30,	PM,	Philip Morris International Inc.,	254.99B,	163.82
+31,	CVX,	Chevron Corporation,	248.60B,	142.35
+32,	WFC,	Wells Fargo & Company,	247.29B,	75.99
+33,	CSCO,	Cisco Systems, Inc.,	245.78B,	61.78
+34,	GE,	General Electric Company,	236.29B,	221.58
+35,	IBM,	International Business Machines Corporation,	235.16B,	258.59
+36,	ABT,	Abbott Laboratories,	224.53B,	129.05
+37,	MCD,	McDonald's Corporation,	220.72B,	308.69
+38,	NOW,	ServiceNow, Inc.,	214.58B,	1,036.72
+39,	LIN,	Linde plc,	212.14B,	450.67
+40,	AXP,	American Express Company,	211.79B,	302.30
+41,	MS,	Morgan Stanley,	207.52B,	129.35
+42,	ISRG,	Intuitive Surgical, Inc.,	202.13B,	563.95
+43,	ACN,	Accenture plc,	201.91B,	322.53
+44,	DIS,	The Walt Disney Company,	200.23B,	111.38
+45,	MRK,	Merck & Co., Inc.,	192.42B,	76.63
+46,	UBER,	Uber Technologies, Inc.,	191.80B,	91.72
+47,	T,	AT&T Inc.,	190.32B,	26.45
+48,	INTU,	Intuit Inc.,	183.62B,	656.80
+49,	AMD,	Advanced Micro Devices, Inc.,	182.34B,	112.46
+50,	BX,	Blackstone Inc.,	181.52B,	148.60
+51,	VZ,	Verizon Communications Inc.,	179.82B,	42.65
+52,	PEP,	PepsiCo, Inc.,	178.67B,	130.31
+53,	GS,	The Goldman Sachs Group, Inc.,	176.95B,	603.81
+54,	RTX,	RTX Corporation,	174.64B,	130.72
+55,	BKNG,	Booking Holdings Inc.,	171.24B,	5,262.42
+56,	TXN,	Texas Instruments Incorporated,	170.97B,	188.20
+57,	ADBE,	Adobe Inc.,	169.37B,	397.40
+58,	QCOM,	QUALCOMM Incorporated,	166.05B,	151.34
+59,	CAT,	Caterpillar Inc.,	165.80B,	352.54
+60,	PGR,	The Progressive Corporation,	165.66B,	282.59
+61,	TMO,	Thermo Fisher Scientific Inc.,	161.93B,	428.95
+62,	SPGI,	S&P Global Inc.,	158.12B,	515.57
+63,	SCHW,	The Charles Schwab Corporation,	156.66B,	86.22
+64,	BA,	The Boeing Company,	153.38B,	203.42
+65,	BSX,	Boston Scientific Corporation,	152.31B,	102.95
+66,	BLK,	BlackRock, Inc.,	148.60B,	959.18
+67,	NEE,	NextEra Energy, Inc.,	148.45B,	72.11
+68,	SYK,	Stryker Corporation,	148.10B,	387.53
+69,	TJX,	The TJX Companies, Inc.,	146.06B,	130.82
+70,	AMGN,	Amgen Inc.,	145.42B,	270.45
+71,	C,	Citigroup Inc.,	141.14B,	75.57
+72,	DHR,	Danaher Corporation,	140.71B,	196.61
+73,	AMAT,	Applied Materials, Inc.,	140.58B,	173.03
+74,	HON,	Honeywell International Inc.,	140.25B,	218.22
+75,	UNP,	Union Pacific Corporation,	136.37B,	228.25
+76,	DE,	Deere & Company,	135.32B,	498.57
+77,	PFE,	Pfizer Inc.,	130.02B,	22.87
+78,	CMCSA,	Comcast Corporation,	129.90B,	34.79
+79,	ETN,	Eaton Corporation plc,	129.42B,	330.75
+80,	LOW,	Lowe's Companies, Inc.,	129.16B,	230.77
+81,	PANW,	Palo Alto Networks, Inc.,	127.12B,	192.00
+82,	GILD,	Gilead Sciences, Inc.,	126.17B,	101.43
+83,	ADP,	Automatic Data Processing, Inc.,	125.10B,	308.19
+84,	ANET,	Arista Networks Inc,	122.14B,	97.25
+85,	COP,	ConocoPhillips,	118.88B,	94.17
+86,	GEV,	GE Vernova Inc.,	118.27B,	433.33
+87,	CB,	Chubb Limited,	114.34B,	285.33
+88,	KKR,	KKR & Co. Inc.,	113.02B,	126.90
+89,	ADI,	Analog Devices, Inc.,	112.43B,	226.68
+90,	VRTX,	Vertex Pharmaceuticals Incorporated,	110.94B,	432.00
+91,	MMC,	Marsh & McLennan Companies, Inc.,	110.26B,	223.77
+92,	CRWD,	CrowdStrike Holdings, Inc.,	109.64B,	440.20
+93,	MDT,	Medtronic plc,	109.16B,	85.11
+94,	LRCX,	Lam Research Corporation,	109.04B,	85.25
+95,	MU,	Micron Technology, Inc.,	108.33B,	96.93
+96,	LMT,	Lockheed Martin Corporation,	107.74B,	459.83
+97,	FI,	Fiserv, Inc.,	105.90B,	191.00
+98,	KLAC,	KLA Corporation,	105.25B,	795.90
+99,	APH,	Amphenol Corporation,	103.76B,	85.78
+100,	PLD,	Prologis, Inc.,	103.65B,	109.70
+101,	ICE,	Intercontinental Exchange, Inc.,	99.15B,	172.84
+102,	SBUX,	Starbucks Corporation,	98.73B,	86.88
+103,	INTC,	Intel Corporation,	98.41B,	22.56
+104,	CME,	CME Group Inc.,	96.70B,	268.34
+105,	AMT,	American Tower Corporation,	95.48B,	203.96
+106,	MO,	Altria Group, Inc.,	95.12B,	56.47
+107,	WELL,	Welltower Inc.,	95.01B,	145.28
+108,	BMY,	Bristol-Myers Squibb Company,	94.81B,	46.59
+109,	TT,	Trane Technologies plc,	94.08B,	421.87
+110,	SO,	The Southern Company,	94.05B,	85.57
+111,	NKE,	NIKE, Inc.,	92.09B,	62.39
+112,	CEG,	Constellation Energy Corporation,	91.37B,	291.52
+113,	WM,	Waste Management, Inc.,	89.49B,	222.38
+114,	SHW,	The Sherwin-Williams Company,	89.04B,	356.04
+115,	HCA,	HCA Healthcare, Inc.,	88.56B,	368.10
+116,	DUK,	Duke Energy Corporation,	87.88B,	113.07
+117,	MCO,	Moody's Corporation,	87.22B,	484.70
+118,	CDNS,	Cadence Design Systems, Inc.,	87.01B,	318.66
+119,	CTAS,	Cintas Corporation,	86.95B,	215.33
+120,	PH,	Parker-Hannifin Corporation,	86.69B,	678.42
+121,	MCK,	McKesson Corporation,	86.05B,	687.78
+122,	ABNB,	Airbnb, Inc.,	85.21B,	138.05
+123,	AJG,	Arthur J. Gallagher & Co.,	85.20B,	332.70
+124,	EQIX,	Equinix, Inc.,	84.98B,	868.79
+125,	ELV,	Elevance Health, Inc.,	84.82B,	375.40
+126,	UPS,	United Parcel Service, Inc.,	84.52B,	99.81
+127,	DASH,	DoorDash, Inc.,	83.82B,	197.80
+128,	MDLZ,	Mondelez International, Inc.,	83.05B,	64.14
+129,	APO,	Apollo Global Management, Inc.,	82.91B,	145.07
+130,	MMM,	3M Company,	81.13B,	150.74
+131,	CI,	The Cigna Group,	80.65B,	301.89
+132,	FTNT,	Fortinet, Inc.,	80.41B,	105.05
+133,	SNPS,	Synopsys, Inc.,	79.74B,	515.71
+134,	TDG,	TransDigm Group Incorporated,	79.52B,	1,415.84
+135,	COF,	Capital One Financial Corporation,	77.03B,	201.04
+136,	AON,	Aon plc,	76.67B,	355.07
+137,	CVS,	CVS Health Corporation,	76.53B,	60.50
+138,	ORLY,	O'Reilly Automotive, Inc.,	75.27B,	1,320.80
+139,	DELL,	Dell Technologies Inc.,	75.26B,	107.85
+140,	MAR,	Marriott International, Inc.,	75.09B,	274.14
+141,	RSG,	Republic Services, Inc.,	74.37B,	237.99
+142,	GD,	General Dynamics Corporation,	73.17B,	273.02
+143,	ITW,	Illinois Tool Works Inc.,	73.09B,	249.14
+144,	WDAY,	Workday, Inc.,	72.23B,	270.02
+145,	ZTS,	Zoetis Inc.,	71.42B,	160.41
+146,	ECL,	Ecolab Inc.,	71.30B,	251.50
+147,	CL,	Colgate-Palmolive Company,	71.22B,	87.88
+148,	WMB,	The Williams Companies, Inc.,	70.90B,	58.07
+149,	PYPL,	PayPal Holdings, Inc.,	70.30B,	72.29
+150,	PNC,	The PNC Financial Services Group, Inc.,	70.23B,	177.53
+151,	USB,	U.S. Bancorp,	69.13B,	44.37
+152,	MSI,	Motorola Solutions, Inc.,	68.98B,	413.28
+153,	EMR,	Emerson Electric Co.,	68.34B,	121.49
+154,	CMG,	Chipotle Mexican Grill, Inc.,	68.24B,	50.65
+155,	NOC,	Northrop Grumman Corporation,	67.74B,	470.67
+156,	RCL,	Royal Caribbean Cruises Ltd.,	67.29B,	247.78
+157,	CHTR,	Charter Communications, Inc.,	64.49B,	411.13
+158,	CARR,	Carrier Global Corporation,	64.00B,	74.65
+159,	HWM,	Howmet Aerospace Inc.,	63.90B,	158.30
+160,	EOG,	EOG Resources, Inc.,	63.67B,	116.65
+161,	ADSK,	Autodesk, Inc.,	63.54B,	297.01
+162,	JCI,	Johnson Controls International plc,	63.21B,	96.06
+163,	BK,	The Bank of New York Mellon Corporation,	62.91B,	87.93
+164,	ROP,	Roper Technologies, Inc.,	62.04B,	577.07
+165,	KMI,	Kinder Morgan, Inc.,	61.11B,	27.50
+166,	AZO,	AutoZone, Inc.,	60.97B,	3,644.75
+167,	APD,	Air Products and Chemicals, Inc.,	60.90B,	273.64
+168,	HLT,	Hilton Worldwide Holdings Inc.,	60.85B,	256.01
+169,	SPG,	Simon Property Group, Inc.,	60.67B,	160.88
+170,	REGN,	Regeneron Pharmaceuticals, Inc.,	60.67B,	574.16
+171,	CPRT,	Copart, Inc.,	60.27B,	62.39
+172,	TRV,	The Travelers Companies, Inc.,	60.02B,	264.92
+173,	MNST,	Monster Beverage Corporation,	58.74B,	60.23
+174,	CSX,	CSX Corporation,	57.37B,	30.54
+175,	DLR,	Digital Realty Trust, Inc.,	56.89B,	165.80
+176,	AFL,	Aflac Incorporated,	56.78B,	105.03
+177,	FCX,	Freeport-McMoRan Inc.,	56.69B,	39.47
+178,	AXON,	Axon Enterprise, Inc.,	56.42B,	724.77
+179,	NEM,	Newmont Corporation,	55.68B,	50.07
+180,	FDX,	FedEx Corporation,	55.38B,	231.15
+181,	MET,	MetLife, Inc.,	54.48B,	81.16
+182,	PAYX,	Paychex, Inc.,	54.48B,	151.26
+183,	NSC,	Norfolk Southern Corporation,	54.17B,	240.26
+184,	TFC,	Truist Financial Corporation,	54.15B,	41.35
+185,	COR,	Cencora, Inc.,	54.08B,	279.00
+186,	OKE,	ONEOK, Inc.,	54.04B,	86.51
+187,	NXPI,	NXP Semiconductors N.V.,	53.66B,	212.40
+188,	ALL,	The Allstate Corporation,	53.64B,	202.56
+189,	AEP,	American Electric Power Company, Inc.,	53.18B,	99.56
+190,	PSA,	Public Storage,	53.15B,	302.13
+191,	VST,	Vistra Corp.,	52.60B,	155.00
+192,	FICO,	Fair Isaac Corporation,	51.99B,	2,136.03
+193,	DFS,	Discover Financial Services,	51.35B,	204.07
+194,	GWW,	W.W. Grainger, Inc.,	51.23B,	1,066.37
+195,	PSX,	Phillips 66,	51.18B,	125.57
+196,	PWR,	Quanta Services, Inc.,	50.92B,	343.58
+197,	PCAR,	PACCAR Inc,	50.53B,	96.26
+198,	BDX,	Becton, Dickinson and Company,	50.25B,	175.34
+199,	MPC,	Marathon Petroleum Corporation,	50.03B,	162.84
+200,	O,	Realty Income Corporation,	49.87B,	55.06
+201,	AMP,	Ameriprise Financial, Inc.,	49.49B,	519.69
+202,	SLB,	Schlumberger Limited,	49.12B,	36.11
+203,	ROST,	Ross Stores, Inc.,	49.10B,	149.33
+204,	SRE,	Sempra,	49.00B,	75.13
+205,	GM,	General Motors Company,	48.51B,	50.46
+206,	AIG,	American International Group, Inc.,	48.20B,	83.64
+207,	TEL,	TE Connectivity plc,	48.16B,	162.39
+208,	URI,	United Rentals, Inc.,	46.93B,	721.95
+209,	NDAQ,	Nasdaq, Inc.,	46.83B,	81.57
+210,	CTVA,	Corteva, Inc.,	46.32B,	67.90
+211,	CMI,	Cummins Inc.,	46.09B,	334.58
+212,	D,	Dominion Energy, Inc.,	45.89B,	53.81
+213,	FAST,	Fastenal Company,	45.87B,	79.97
+214,	KVUE,	Kenvue Inc.,	45.43B,	23.66
+215,	TGT,	Target Corporation,	45.02B,	99.09
+216,	KDP,	Keurig Dr Pepper Inc.,	44.93B,	33.08
+217,	KR,	The Kroger Co.,	44.60B,	67.49
+218,	KMB,	Kimberly-Clark Corporation,	44.47B,	134.03
+219,	EW,	Edwards Lifesciences Corporation,	44.29B,	75.50
+220,	OXY,	Occidental Petroleum Corporation,	43.69B,	44.39
+221,	MSCI,	MSCI Inc.,	43.63B,	563.87
+222,	EXC,	Exelon Corporation,	43.38B,	42.97
+223,	CCI,	Crown Castle Inc.,	42.81B,	98.32
+224,	FANG,	Diamondback Energy, Inc.,	42.71B,	146.17
+225,	VLO,	Valero Energy Corporation,	42.32B,	135.11
+226,	VRSK,	Verisk Analytics, Inc.,	42.18B,	301.57
+227,	F,	Ford Motor Company,	42.15B,	10.60
+228,	HES,	Hess Corporation,	41.80B,	135.70
+229,	AME,	AMETEK, Inc.,	41.67B,	180.50
+230,	IDXX,	IDEXX Laboratories, Inc.,	40.95B,	509.13
+231,	LHX,	L3Harris Technologies, Inc.,	40.82B,	218.37
+232,	FIS,	Fidelity National Information Services, Inc.,	40.81B,	77.68
+233,	GLW,	Corning Incorporated,	40.79B,	47.62
+234,	YUM,	Yum! Brands, Inc.,	40.50B,	145.72
+235,	CTSH,	Cognizant Technology Solutions Corporation,	40.06B,	81.27
+236,	TTWO,	Take-Two Interactive Software, Inc.,	39.92B,	226.16
+237,	XEL,	Xcel Energy Inc.,	39.40B,	68.31
+238,	EA,	Electronic Arts Inc.,	38.85B,	149.06
+239,	DHI,	D.R. Horton, Inc.,	38.82B,	126.36
+240,	PEG,	Public Service Enterprise Group Incorporated,	38.72B,	77.59
+241,	GRMN,	Garmin Ltd.,	38.59B,	200.44
+242,	CBRE,	CBRE Group, Inc.,	38.57B,	131.36
+243,	OTIS,	Otis Worldwide Corporation,	38.28B,	96.99
+244,	PRU,	Prudential Financial, Inc.,	38.02B,	107.40
+245,	BKR,	Baker Hughes Company,	37.83B,	38.18
+246,	LULU,	lululemon athletica inc.,	37.32B,	310.61
+247,	PCG,	PG&E Corporation,	37.27B,	16.96
+248,	TRGP,	Targa Resources Corp.,	36.77B,	169.50
+249,	HIG,	The Hartford Insurance Group, Inc.,	36.35B,	127.93
+250,	RMD,	ResMed Inc.,	36.31B,	247.65
+251,	ED,	Consolidated Edison, Inc.,	36.24B,	100.58
+252,	ODFL,	Old Dominion Freight Line, Inc.,	36.21B,	171.34
+253,	VMC,	Vulcan Materials Company,	35.48B,	268.59
+254,	CAH,	Cardinal Health, Inc.,	35.39B,	148.26
+255,	MPWR,	Monolithic Power Systems, Inc.,	35.32B,	737.73
+256,	WAB,	Westinghouse Air Brake Technologies Corporation,	34.88B,	203.85
+257,	ACGL,	Arch Capital Group Ltd.,	34.87B,	93.42
+258,	ETR,	Entergy Corporation,	34.85B,	80.89
+259,	ROK,	Rockwell Automation, Inc.,	34.77B,	308.51
+260,	DAL,	Delta Air Lines, Inc.,	34.60B,	52.99
+261,	IT,	Gartner, Inc.,	34.54B,	448.70
+262,	SYY,	Sysco Corporation,	34.32B,	70.80
+263,	IR,	Ingersoll Rand Inc.,	34.09B,	84.50
+264,	EFX,	Equifax Inc.,	34.00B,	273.76
+265,	GEHC,	GE HealthCare Technologies Inc.,	33.81B,	73.83
+266,	EQT,	EQT Corporation,	33.64B,	56.20
+267,	MCHP,	Microchip Technology Incorporated,	33.51B,	62.30
+268,	STZ,	Constellation Brands, Inc.,	33.40B,	187.67
+269,	LYV,	Live Nation Entertainment, Inc.,	33.14B,	143.00
+270,	VICI,	VICI Properties Inc.,	33.14B,	31.36
+271,	HSY,	The Hershey Company,	33.09B,	163.30
+272,	WEC,	WEC Energy Group, Inc.,	33.05B,	103.56
+273,	DXCM,	DexCom, Inc.,	32.98B,	84.11
+274,	A,	Agilent Technologies, Inc.,	32.91B,	115.42
+275,	MLM,	Martin Marietta Materials, Inc.,	32.79B,	543.89
+276,	KHC,	The Kraft Heinz Company,	32.65B,	27.59
+277,	EXR,	Extra Space Storage Inc.,	32.58B,	147.02
+278,	TKO,	TKO Group Holdings, Inc.,	32.55B,	164.48
+279,	EBAY,	eBay Inc.,	31.89B,	69.17
+280,	CSGP,	CoStar Group, Inc.,	31.72B,	75.18
+281,	TPL,	Texas Pacific Land Corporation,	31.69B,	1,378.64
+282,	BRO,	Brown & Brown, Inc.,	31.25B,	109.02
+283,	XYL,	Xylem Inc.,	30.89B,	126.93
+284,	RJF,	Raymond James Financial, Inc.,	30.88B,	153.04
+285,	NRG,	NRG Energy, Inc.,	30.64B,	156.71
+286,	ANSS,	ANSYS, Inc.,	30.51B,	347.08
+287,	WTW,	Willis Towers Watson Public Limited Company,	30.16B,	304.21
+288,	MTB,	M&T Bank Corporation,	29.94B,	186.50
+289,	LVS,	Las Vegas Sands Corp.,	29.90B,	42.32
+290,	CCL,	Carnival Corporation & plc,	29.83B,	22.74
+291,	LEN,	Lennar Corporation,	29.64B,	112.37
+292,	DD,	DuPont de Nemours, Inc.,	29.55B,	70.61
+293,	GIS,	General Mills, Inc.,	29.44B,	53.77
+294,	CNC,	Centene Corporation,	29.34B,	58.97
+295,	VTR,	Ventas, Inc.,	29.17B,	64.18
+296,	AVB,	AvalonBay Communities, Inc.,	29.11B,	204.70
+297,	IRM,	Iron Mountain Incorporated,	28.73B,	97.38
+298,	KEYS,	Keysight Technologies, Inc.,	28.52B,	165.06
+299,	K,	Kellanova,	28.49B,	82.11
+300,	STT,	State Street Corporation,	27.89B,	97.78
+301,	BR,	Broadridge Financial Solutions, Inc.,	27.88B,	237.31
+302,	TSCO,	Tractor Supply Company,	27.73B,	52.31
+303,	HUM,	Humana Inc.,	27.63B,	228.89
+304,	DTE,	DTE Energy Company,	27.57B,	132.84
+305,	NUE,	Nucor Corporation,	27.43B,	118.96
+306,	EQR,	Equity Residential,	27.26B,	69.59
+307,	WRB,	W. R. Berkley Corporation,	27.19B,	71.68
+308,	HPQ,	HP Inc.,	27.13B,	28.78
+309,	UAL,	United Airlines Holdings, Inc.,	26.98B,	82.60
+310,	EXE,	Expand Energy Corporation,	26.92B,	113.10
+311,	GDDY,	GoDaddy Inc.,	26.72B,	187.49
+312,	ROL,	Rollins, Inc.,	26.58B,	54.85
+313,	FITB,	Fifth Third Bancorp,	26.32B,	39.43
+314,	AWK,	American Water Works Company, Inc.,	26.10B,	133.84
+315,	IQV,	IQVIA Holdings Inc.,	26.07B,	150.68
+316,	VRSN,	VeriSign, Inc.,	25.91B,	275.95
+317,	PPG,	PPG Industries, Inc.,	25.73B,	113.34
+318,	AEE,	Ameren Corporation,	25.49B,	94.32
+319,	DOV,	Dover Corporation,	25.45B,	185.59
+320,	IP,	International Paper Company,	25.34B,	48.00
+321,	CDW,	CDW Corporation,	25.11B,	190.68
+322,	FTV,	Fortive Corporation,	25.03B,	73.65
+323,	CPAY,	Corpay, Inc.,	25.01B,	354.82
+324,	PPL,	PPL Corporation,	24.98B,	33.79
+325,	VLTO,	Veralto Corporation,	24.85B,	100.25
+326,	FOXA,	Fox Corporation,	24.84B,	55.24
+327,	TYL,	Tyler Technologies, Inc.,	24.49B,	567.80
+328,	MTD,	Mettler-Toledo International Inc.,	24.46B,	1,177.05
+329,	ATO,	Atmos Energy Corporation,	24.41B,	153.66
+330,	ADM,	Archer-Daniels-Midland Company,	24.35B,	50.69
+331,	SBAC,	SBA Communications Corporation,	24.26B,	225.82
+332,	DRI,	Darden Restaurants, Inc.,	23.99B,	205.00
+333,	SW,	Smurfit Westrock Plc,	23.93B,	45.98
+334,	CNP,	CenterPoint Energy, Inc.,	23.93B,	36.66
+335,	FOX,	Fox Corporation,	23.86B,	51.08
+336,	FE,	FirstEnergy Corp.,	23.80B,	41.23
+337,	EL,	The Estée Lauder Companies Inc.,	23.56B,	65.48
+338,	HPE,	Hewlett Packard Enterprise Company,	23.54B,	17.92
+339,	HBAN,	Huntington Bancshares Incorporated,	23.44B,	16.09
+340,	SYF,	Synchrony Financial,	23.36B,	61.36
+341,	CINF,	Cincinnati Financial Corporation,	23.22B,	148.56
+342,	SMCI,	Super Micro Computer, Inc.,	23.21B,	38.89
+343,	CHD,	Church & Dwight Co., Inc.,	23.17B,	94.10
+344,	ES,	Eversource Energy,	23.11B,	62.91
+345,	TDY,	Teledyne Technologies Incorporated,	23.11B,	493.17
+346,	CBOE,	Cboe Global Markets, Inc.,	23.08B,	220.38
+347,	WBD,	Warner Bros. Discovery, Inc.,	22.71B,	9.18
+348,	STE,	STERIS plc,	22.71B,	231.15
+349,	STX,	Seagate Technology Holdings plc,	22.38B,	105.47
+350,	PODD,	Insulet Corporation,	22.13B,	314.46
+351,	DVN,	Devon Energy Corporation,	22.02B,	34.29
+352,	NVR,	NVR, Inc.,	21.98B,	7,402.64
+353,	DOW,	Dow Inc.,	21.75B,	30.77
+354,	EIX,	Edison International,	21.62B,	56.18
+355,	EXPE,	Expedia Group, Inc.,	21.53B,	169.37
+356,	WSM,	Williams-Sonoma, Inc.,	21.45B,	174.44
+357,	TROW,	T. Rowe Price Group, Inc.,	21.41B,	97.19
+358,	LII,	Lennox International Inc.,	21.37B,	602.34
+359,	WAT,	Waters Corporation,	21.36B,	359.02
+360,	PHM,	PulteGroup, Inc.,	21.34B,	106.45
+361,	AMCR,	Amcor plc,	21.00B,	9.17
+362,	LH,	Labcorp Holdings Inc.,	20.93B,	250.01
+363,	NTRS,	Northern Trust Corporation,	20.84B,	107.14
+364,	INVH,	Invitation Homes Inc.,	20.74B,	33.73
+365,	CMS,	CMS Energy Corporation,	20.71B,	69.24
+366,	HUBB,	Hubbell Incorporated,	20.64B,	386.66
+367,	FSLR,	First Solar, Inc.,	20.55B,	191.60
+368,	PTC,	PTC Inc.,	20.51B,	170.96
+369,	NTAP,	NetApp, Inc.,	20.25B,	99.53
+370,	GPN,	Global Payments Inc.,	20.18B,	82.76
+371,	RF,	Regions Financial Corporation,	20.17B,	22.44
+372,	STLD,	Steel Dynamics, Inc.,	20.10B,	135.42
+373,	MKC,	McCormick & Company, Incorporated,	20.06B,	74.80
+374,	LDOS,	Leidos Holdings, Inc.,	20.01B,	155.43
+375,	TSN,	Tyson Foods, Inc.,	19.72B,	55.36
+376,	DECK,	Deckers Outdoor Corporation,	19.63B,	129.37
+377,	IFF,	International Flavors & Fragrances Inc.,	19.57B,	76.50
+378,	DGX,	Quest Diagnostics Incorporated,	19.48B,	174.49
+379,	LYB,	LyondellBasell Industries N.V.,	19.39B,	60.34
+380,	WY,	Weyerhaeuser Company,	19.36B,	26.69
+381,	MAA,	Mid-America Apartment Communities, Inc.,	19.33B,	160.93
+382,	ZBH,	Zimmer Biomet Holdings, Inc.,	19.29B,	97.49
+383,	ON,	ON Semiconductor Corporation,	19.13B,	45.77
+384,	DG,	Dollar General Corporation,	19.10B,	86.85
+385,	CTRA,	Coterra Energy Inc.,	18.90B,	24.76
+386,	ERIE,	Erie Indemnity Company,	18.79B,	359.38
+387,	ESS,	Essex Property Trust, Inc.,	18.72B,	280.80
+388,	ULTA,	Ulta Beauty, Inc.,	18.61B,	412.23
+389,	L,	Loews Corporation,	18.58B,	88.59
+390,	HAL,	Halliburton Company,	18.32B,	21.31
+391,	PFG,	Principal Financial Group, Inc.,	18.32B,	81.70
+392,	KEY,	KeyCorp,	18.21B,	16.62
+393,	CFG,	Citizens Financial Group, Inc.,	18.16B,	41.87
+394,	BIIB,	Biogen Inc.,	18.05B,	123.16
+395,	DLTR,	Dollar Tree, Inc.,	18.01B,	85.71
+396,	GEN,	Gen Digital Inc.,	17.93B,	29.10
+397,	JBL,	Jabil Inc.,	17.93B,	167.01
+398,	LUV,	Southwest Airlines Co.,	17.83B,	31.29
+399,	NI,	NiSource Inc.,	17.80B,	37.82
+400,	TPR,	Tapestry, Inc.,	17.36B,	83.60
+401,	FDS,	FactSet Research Systems Inc.,	17.13B,	451.43
+402,	SNA,	Snap-on Incorporated,	17.12B,	327.32
+403,	WDC,	Western Digital Corporation,	17.10B,	49.01
+404,	TRMB,	Trimble Inc.,	17.00B,	71.25
+405,	PKG,	Packaging Corporation of America,	16.87B,	188.79
+406,	NWS,	News Corporation,	16.85B,	32.85
+407,	MOH,	Molina Healthcare, Inc.,	16.83B,	310.45
+408,	GPC,	Genuine Parts Company,	16.82B,	121.20
+409,	CLX,	The Clorox Company,	16.80B,	136.33
+410,	RL,	Ralph Lauren Corporation,	16.66B,	269.79
+411,	DPZ,	Domino's Pizza, Inc.,	16.59B,	484.40
+412,	BF.B,	Brown-Forman Corporation,	16.52B,	34.94
+413,	COO,	The Cooper Companies, Inc.,	16.35B,	81.76
+414,	FFIV,	F5, Inc.,	16.27B,	283.23
+415,	PNR,	Pentair plc,	16.20B,	98.46
+416,	HRL,	Hormel Foods Corporation,	16.10B,	29.27
+417,	BAX,	Baxter International Inc.,	15.99B,	31.15
+418,	NWSA,	News Corporation,	15.97B,	28.22
+419,	EXPD,	Expeditors International of Washington, Inc.,	15.79B,	115.31
+420,	BBY,	Best Buy Co., Inc.,	15.62B,	73.77
+421,	LNT,	Alliant Energy Corporation,	15.53B,	60.46
+422,	WST,	West Pharmaceutical Services, Inc.,	15.51B,	215.87
+423,	ZBRA,	Zebra Technologies Corporation,	15.38B,	302.38
+424,	J,	Jacobs Solutions Inc.,	15.25B,	126.94
+425,	OMC,	Omnicom Group Inc.,	15.11B,	77.43
+426,	APTV,	Aptiv PLC,	14.98B,	68.79
+427,	EVRG,	Evergy, Inc.,	14.90B,	64.76
+428,	UDR,	UDR, Inc.,	14.74B,	41.65
+429,	EG,	Everest Group, Ltd.,	14.72B,	346.15
+430,	BALL,	Ball Corporation,	14.64B,	52.79
+431,	JBHT,	J.B. Hunt Transport Services, Inc.,	14.61B,	147.32
+432,	PAYC,	Paycom Software, Inc.,	14.58B,	260.21
+433,	KIM,	Kimco Realty Corporation,	14.54B,	21.46
+434,	IEX,	IDEX Corporation,	14.38B,	190.31
+435,	MAS,	Masco Corporation,	14.36B,	68.07
+436,	AVY,	Avery Dennison Corporation,	14.24B,	182.13
+437,	CF,	CF Industries Holdings, Inc.,	14.21B,	87.73
+438,	TXT,	Textron Inc.,	13.81B,	76.52
+439,	ALGN,	Align Technology, Inc.,	13.80B,	190.42
+440,	BLDR,	Builders FirstSource, Inc.,	13.68B,	123.81
+441,	TER,	Teradyne, Inc.,	13.62B,	84.90
+442,	REG,	Regency Centers Corporation,	13.31B,	73.05
+443,	JKHY,	Jack Henry & Associates, Inc.,	12.99B,	178.34
+444,	HOLX,	Hologic, Inc.,	12.73B,	57.12
+445,	SOLV,	Solventum Corporation,	12.72B,	73.52
+446,	CPT,	Camden Property Trust,	12.71B,	117.23
+447,	ARE,	Alexandria Real Estate Equities, Inc.,	12.52B,	72.40
+448,	UHS,	Universal Health Services, Inc.,	12.38B,	192.17
+449,	ALLE,	Allegion plc,	12.29B,	142.85
+450,	DOC,	Healthpeak Properties, Inc.,	12.21B,	17.25
+451,	JNPR,	Juniper Networks, Inc.,	12.17B,	36.39
+452,	SJM,	The J. M. Smucker Company,	11.86B,	111.49
+453,	POOL,	Pool Corporation,	11.80B,	313.84
+454,	INCY,	Incyte Corporation,	11.77B,	60.81
+455,	BXP,	BXP, Inc.,	11.67B,	66.04
+456,	AKAM,	Akamai Technologies, Inc.,	11.54B,	78.94
+457,	NDSN,	Nordson Corporation,	11.53B,	202.60
+458,	CHRW,	C.H. Robinson Worldwide, Inc.,	11.43B,	96.28
+459,	SWK,	Stanley Black & Decker, Inc.,	11.42B,	73.82
+460,	RVTY,	Revvity, Inc.,	11.40B,	96.71
+461,	BEN,	Franklin Resources, Inc.,	11.34B,	21.58
+462,	TAP,	Molson Coors Beverage Company,	11.16B,	55.18
+463,	BG,	Bunge Global SA,	11.14B,	82.91
+464,	HST,	Host Hotels & Resorts, Inc.,	11.08B,	15.76
+465,	SWKS,	Skyworks Solutions, Inc.,	10.90B,	72.60
+466,	CAG,	Conagra Brands, Inc.,	10.90B,	22.83
+467,	DVA,	DaVita Inc.,	10.87B,	143.98
+468,	LKQ,	LKQ Corporation,	10.86B,	42.08
+469,	MOS,	The Mosaic Company,	10.86B,	34.23
+470,	PNW,	Pinnacle West Capital Corporation,	10.64B,	89.08
+471,	KMX,	CarMax, Inc.,	10.62B,	69.56
+472,	EPAM,	EPAM Systems, Inc.,	10.59B,	186.90
+473,	CPB,	The Campbell's Company,	10.49B,	35.18
+474,	VTRS,	Viatris Inc.,	10.32B,	8.79
+475,	AIZ,	Assurant, Inc.,	10.26B,	202.45
+476,	WYNN,	Wynn Resorts, Limited,	10.02B,	96.79
+477,	AOS,	A. O. Smith Corporation,	9.96B,	70.12
+478,	GL,	Globe Life Inc.,	9.91B,	120.09
+479,	MRNA,	Moderna, Inc.,	9.86B,	25.49
+480,	WBA,	Walgreens Boots Alliance, Inc.,	9.83B,	11.37
+481,	EMN,	Eastman Chemical Company,	9.51B,	82.39
+482,	MGM,	MGM Resorts International,	9.50B,	34.90
+483,	IPG,	The Interpublic Group of Companies, Inc.,	9.48B,	25.63
+484,	DAY,	Dayforce Inc.,	9.47B,	59.26
+485,	HAS,	Hasbro, Inc.,	9.22B,	65.83
+486,	AES,	The AES Corporation,	8.93B,	12.55
+487,	HII,	Huntington Ingalls Industries, Inc.,	8.86B,	225.73
+488,	NCLH,	Norwegian Cruise Line Holdings Ltd.,	8.64B,	19.34
+489,	HSIC,	Henry Schein, Inc.,	8.59B,	70.54
+490,	FRT,	Federal Realty Investment Trust,	8.42B,	96.91
+491,	TECH,	Bio-Techne Corporation,	8.09B,	51.61
+492,	PARA,	Paramount Global,	8.08B,	11.99
+493,	MKTX,	MarketAxess Holdings Inc.,	7.99B,	213.13
+494,	GNRC,	Generac Holdings Inc.,	7.63B,	129.07
+495,	ALB,	Albemarle Corporation,	7.28B,	61.86
+496,	LW,	Lamb Weston Holdings, Inc.,	7.23B,	51.21
+497,	CRL,	Charles River Laboratories International, Inc.,	7.07B,	144.02
+498,	MTCH,	Match Group, Inc.,	7.06B,	28.80
+499,	IVZ,	Invesco Ltd.,	7.00B,	15.65
+500,	MHK,	Mohawk Industries, Inc.,	6.93B,	110.88
+501,	APA,	APA Corporation,	6.66B,	18.46
+502,	CZR,	Caesars Entertainment, Inc.,	6.35B,	30.52
+503,	ENPH,	Enphase Energy, Inc.,	5.99B,	45.63
